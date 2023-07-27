@@ -1,5 +1,5 @@
 #####################################################################
-# Block-1: Terraform Settings Block
+# Block-1: Terraform Settings Blockes
 terraform {
   required_version = ">= 1.0.0"
   required_providers {
