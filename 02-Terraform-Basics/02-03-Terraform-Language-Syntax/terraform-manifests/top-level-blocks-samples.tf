@@ -1,4 +1,9 @@
 #####################################################################
+### 3Top Level Blocks
+#1-Fundemental Blocks: Terraform, Providers, Resources
+#2-Variables Blocks: Input, Output, Local Values
+#3-Calling/Referencing Blocks: Data Source, Modules
+
 # Block-1: Terraform Settings Block
 terraform {
   required_version = ">= 1.0.0"
